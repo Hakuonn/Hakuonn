@@ -23,7 +23,7 @@
 ## **Long intro**
 
 歐嗨喲咪納桑，挖搭西挖Hakuonn 👋!<br>
-目前是在SB當Barista aka Waterista的Partner，阿這裡啥小都沒有，只有Usagi在這裡轉手手!ㄏㄚˊ<br><br>
+目前是在SB當Barista aka Waterista的Partner，阿這裡啥小都沒有，只有Usagi在這裡轉手手!ㄏㄚˊ<br><img width="300" alt="hello!" src="./hah.gif" ><br><br>
 
 啊我之後還記得的時候我再來更新我的Long intro，畢竟這個叫做Long intro梅可能這麼短就結束吧？
 

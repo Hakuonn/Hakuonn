@@ -43,11 +43,11 @@
 <br>
 
 
-## **My GitHub Stats**
+## 📈**My GitHub Stats**
 
 ![Hakuonn's Stats](https://github-readme-stats.vercel.app/api?username=Hakuonn&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 ![Hakuonn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hakuonn&theme=jolly&hide_border=true)
 
-## **拜託追一下啦啦啦啦啦啦:**
+## 📈**拜託追一下啦啦啦啦啦啦:**
 
 - 📸[Instagram](https://www.instagram.com/hakuonn_0226/)
